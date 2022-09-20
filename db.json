@@ -12,5 +12,28 @@
       "author": "yoshi",
       "id": 2
     }
+  ],
+  "categories": [
+    {
+      "title":"suits",
+    }
+    {
+      "title":"dresses",
+    }
+    {
+      "title":"shirts",
+    }
+    {
+      "title":"shorts",
+    }
+    {
+      "title":"jackets",
+    }
+    {
+      "title":"shoes",
+    }
+    {
+      "title":"hats",
+    }
   ]
 }
