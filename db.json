@@ -28,7 +28,8 @@
       "body": "lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem ",
       "category":"shirts",
       "price":1000,
-      "image":"https://images.squarespace-cdn.com/content/v1/59d2bea58a02c78793a95114/1533744372275-89SQDE9JMMSO09CMNBOS/%28RED%29_Men%27s%2BINSPI%28RED%29%2BTshirt.jpg"
+      "image":"https://images.squarespace-cdn.com/content/v1/59d2bea58a02c78793a95114/1533744372275-89SQDE9JMMSO09CMNBOS/%28RED%29_Men%27s%2BINSPI%28RED%29%2BTshirt.jpg",
+      "size":["XS","S","M","L","XL","XXL"]
     },
     {
       "id": 2,
@@ -36,7 +37,8 @@
       "body": "lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem ",
       "category":"shirts",
       "price":2000,
-      "image":"https://images.squarespace-cdn.com/content/v1/59d2bea58a02c78793a95114/1533744372275-89SQDE9JMMSO09CMNBOS/%28RED%29_Men%27s%2BINSPI%28RED%29%2BTshirt.jpg"
+      "image":"https://images.squarespace-cdn.com/content/v1/59d2bea58a02c78793a95114/1533744372275-89SQDE9JMMSO09CMNBOS/%28RED%29_Men%27s%2BINSPI%28RED%29%2BTshirt.jpg",
+      "size":["XS","S","M","L","XL","XXL"]
     },
     {
       "id": 3,
@@ -44,7 +46,8 @@
       "body": "lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem ",
       "category":"shirts"
       ,"price":3000,
-      "image":"https://images.squarespace-cdn.com/content/v1/59d2bea58a02c78793a95114/1533744372275-89SQDE9JMMSO09CMNBOS/%28RED%29_Men%27s%2BINSPI%28RED%29%2BTshirt.jpg"
+      "image":"https://images.squarespace-cdn.com/content/v1/59d2bea58a02c78793a95114/1533744372275-89SQDE9JMMSO09CMNBOS/%28RED%29_Men%27s%2BINSPI%28RED%29%2BTshirt.jpg",
+      "size":["XS","S","M","L","XL","XXL"]
     },
     {
       "id": 4,
@@ -52,7 +55,8 @@
       "body": "lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem ",
       "category":"shirts",
       "price":4000,
-      "image":"https://images.squarespace-cdn.com/content/v1/59d2bea58a02c78793a95114/1533744372275-89SQDE9JMMSO09CMNBOS/%28RED%29_Men%27s%2BINSPI%28RED%29%2BTshirt.jpg"
+      "image":"https://images.squarespace-cdn.com/content/v1/59d2bea58a02c78793a95114/1533744372275-89SQDE9JMMSO09CMNBOS/%28RED%29_Men%27s%2BINSPI%28RED%29%2BTshirt.jpg",
+      "size":["XS","S","M","L","XL","XXL"]
     },
     {
       "id": 5,
@@ -60,7 +64,8 @@
       "body": "lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem ",
       "category":"shirts",
       "price":5000,
-      "image":"https://images.squarespace-cdn.com/content/v1/59d2bea58a02c78793a95114/1533744372275-89SQDE9JMMSO09CMNBOS/%28RED%29_Men%27s%2BINSPI%28RED%29%2BTshirt.jpg"
+      "image":"https://images.squarespace-cdn.com/content/v1/59d2bea58a02c78793a95114/1533744372275-89SQDE9JMMSO09CMNBOS/%28RED%29_Men%27s%2BINSPI%28RED%29%2BTshirt.jpg",
+      "size":["XS","S","M","L","XL","XXL"]
     }
   ],
   "suits":[
@@ -70,7 +75,8 @@
       "body": "lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem ",
       "category":"suits",
       "price":1000,
-      "image":"https://sc04.alicdn.com/kf/HTB1dkOjosuYBuNkSmRyq6AA3pXak.jpg"
+      "image":"https://sc04.alicdn.com/kf/HTB1dkOjosuYBuNkSmRyq6AA3pXak.jpg",
+      "size":["XS","S","M","L","XL","XXL"]
     },
     {
       "id": 2,
@@ -78,7 +84,8 @@
       "body": "lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem ",
       "category":"suits",
       "price":2000,
-      "image":"https://sc04.alicdn.com/kf/HTB1dkOjosuYBuNkSmRyq6AA3pXak.jpg"
+      "image":"https://sc04.alicdn.com/kf/HTB1dkOjosuYBuNkSmRyq6AA3pXak.jpg",
+      "size":["XS","S","M","L","XL","XXL"]
     },
     {
       "id": 3,
@@ -86,7 +93,8 @@
       "body": "lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem ",
       "category":"suits",
       "price":3000,
-      "image":"https://sc04.alicdn.com/kf/HTB1dkOjosuYBuNkSmRyq6AA3pXak.jpg"
+      "image":"https://sc04.alicdn.com/kf/HTB1dkOjosuYBuNkSmRyq6AA3pXak.jpg",
+      "size":["XS","S","M","L","XL","XXL"]
     },
     {
       "id": 4,
@@ -94,7 +102,8 @@
       "body": "lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem ",
       "category":"suits",
       "price":4000,
-      "image":"https://sc04.alicdn.com/kf/HTB1dkOjosuYBuNkSmRyq6AA3pXak.jpg"
+      "image":"https://sc04.alicdn.com/kf/HTB1dkOjosuYBuNkSmRyq6AA3pXak.jpg",
+      "size":["XS","S","M","L","XL","XXL"]
     },
     {
       "id": 5,
@@ -102,7 +111,8 @@
       "body": "lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem ",
       "category":"suits",
       "price":5000,
-      "image":"https://sc04.alicdn.com/kf/HTB1dkOjosuYBuNkSmRyq6AA3pXak.jpg"
+      "image":"https://sc04.alicdn.com/kf/HTB1dkOjosuYBuNkSmRyq6AA3pXak.jpg",
+      "size":["XS","S","M","L","XL","XXL"]
     }
   ],
   "dresses":[
@@ -112,7 +122,8 @@
       "body": "lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem ",
       "category":"dresses",
       "price":1000,
-      "image":"https://i.pinimg.com/originals/fa/b9/ce/fab9cefd2ab99e6f66bab217a707da40.jpg"
+      "image":"https://i.pinimg.com/originals/fa/b9/ce/fab9cefd2ab99e6f66bab217a707da40.jpg",
+      "size":["XS","S","M","L","XL","XXL"]
     },
     {
       "id": 2,
@@ -120,7 +131,8 @@
       "body": "lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem ",
       "category":"dresses",
       "price":2000,
-      "image":"https://i.pinimg.com/originals/fa/b9/ce/fab9cefd2ab99e6f66bab217a707da40.jpg"
+      "image":"https://i.pinimg.com/originals/fa/b9/ce/fab9cefd2ab99e6f66bab217a707da40.jpg",
+      "size":["XS","S","M","L","XL","XXL"]
     },
     {
       "id": 3,
@@ -128,7 +140,8 @@
       "body": "lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem ",
       "category":"dresses",
       "price":3000,
-      "image":"https://i.pinimg.com/originals/fa/b9/ce/fab9cefd2ab99e6f66bab217a707da40.jpg"
+      "image":"https://i.pinimg.com/originals/fa/b9/ce/fab9cefd2ab99e6f66bab217a707da40.jpg",
+      "size":["XS","S","M","L","XL","XXL"]
     },
     {
       "id": 4,
@@ -136,7 +149,8 @@
       "body": "lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem ",
       "category":"dresses",
       "price":4000,
-      "image":"https://i.pinimg.com/originals/fa/b9/ce/fab9cefd2ab99e6f66bab217a707da40.jpg"
+      "image":"https://i.pinimg.com/originals/fa/b9/ce/fab9cefd2ab99e6f66bab217a707da40.jpg",
+      "size":["XS","S","M","L","XL","XXL"]
     },
     {
       "id": 5,
@@ -144,7 +158,8 @@
       "body": "lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem ",
       "category":"dresses",
       "price":5000,
-      "image":"https://i.pinimg.com/originals/fa/b9/ce/fab9cefd2ab99e6f66bab217a707da40.jpg"
+      "image":"https://i.pinimg.com/originals/fa/b9/ce/fab9cefd2ab99e6f66bab217a707da40.jpg",
+      "size":["XS","S","M","L","XL","XXL"]
     }
   ],
   "shorts":[
@@ -154,7 +169,8 @@
       "body": "lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem ",
       "category":"shorts",
       "price":1000,
-      "image":"https://www.chameleonmenswear.co.uk/images/hugo-boss-kids-6-12-years-bermuda-shorts-in-black-p20937-41464_medium.jpg"
+      "image":"https://www.chameleonmenswear.co.uk/images/hugo-boss-kids-6-12-years-bermuda-shorts-in-black-p20937-41464_medium.jpg",
+      "size":["XS","S","M","L","XL","XXL"]
     },
     {
       "id": 2,
@@ -162,7 +178,8 @@
       "body": "lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem ",
       "category":"shorts",
       "price":2000,
-      "image":"https://www.chameleonmenswear.co.uk/images/hugo-boss-kids-6-12-years-bermuda-shorts-in-black-p20937-41464_medium.jpg"
+      "image":"https://www.chameleonmenswear.co.uk/images/hugo-boss-kids-6-12-years-bermuda-shorts-in-black-p20937-41464_medium.jpg",
+      "size":["XS","S","M","L","XL","XXL"]
     },
     {
       "id": 3,
@@ -170,7 +187,8 @@
       "body": "lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem ",
       "category":"shorts",
       "price":3000,
-      "image":"https://www.chameleonmenswear.co.uk/images/hugo-boss-kids-6-12-years-bermuda-shorts-in-black-p20937-41464_medium.jpg"
+      "image":"https://www.chameleonmenswear.co.uk/images/hugo-boss-kids-6-12-years-bermuda-shorts-in-black-p20937-41464_medium.jpg",
+      "size":["XS","S","M","L","XL","XXL"]
     },
     {
       "id": 4,
@@ -178,7 +196,8 @@
       "body": "lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem ",
       "category":"shorts",
       "price":4000,
-      "image":"https://www.chameleonmenswear.co.uk/images/hugo-boss-kids-6-12-years-bermuda-shorts-in-black-p20937-41464_medium.jpg"
+      "image":"https://www.chameleonmenswear.co.uk/images/hugo-boss-kids-6-12-years-bermuda-shorts-in-black-p20937-41464_medium.jpg",
+      "size":["XS","S","M","L","XL","XXL"]
     },
     {
       "id": 5,
@@ -186,7 +205,8 @@
       "body": "lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem ",
       "category":"shorts",
       "price":5000,
-      "image":"https://www.chameleonmenswear.co.uk/images/hugo-boss-kids-6-12-years-bermuda-shorts-in-black-p20937-41464_medium.jpg"
+      "image":"https://www.chameleonmenswear.co.uk/images/hugo-boss-kids-6-12-years-bermuda-shorts-in-black-p20937-41464_medium.jpg",
+      "size":["XS","S","M","L","XL","XXL"]
     }
   ]
 }
