@@ -21,28 +21,6 @@
       "image":"https://www.chameleonmenswear.co.uk/images/hugo-boss-kids-6-12-years-bermuda-shorts-in-black-p20937-41464_medium.jpg"
     }
   ],
-  "banners": [
-    {
-      "id": 1,
-      "title": "first banner",
-      "image":"https://www.harbuk.com/_next/image?url=%2Funique%2Fhome%2Fbanners%2F1.jpg&w=1920&q=75"
-    },
-    {
-      "id": 2,
-      "title": "second banner",
-      "image":"https://www.harbuk.com/_next/image?url=%2Funique%2Fhome%2Fbanners%2F1.jpg&w=1920&q=75"
-    },
-    {
-      "id": 3,
-      "title": "third banner",
-      "image":"https://www.harbuk.com/_next/image?url=%2Funique%2Fhome%2Fbanners%2F1.jpg&w=1920&q=75"
-    },
-    {
-      "id": 4,
-      "title": "fourth banner",
-      "image":"https://www.harbuk.com/_next/image?url=%2Funique%2Fhome%2Fbanners%2F1.jpg&w=1920&q=75"
-    }
-  ],
     "shirts":[
     {
       "id": 11,
