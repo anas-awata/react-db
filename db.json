@@ -23,7 +23,7 @@
   ],
   "products":[
     "shirts":{
-    "shirts":[
+    [
     {
       "id": 11,
       "title": "first shirt",
