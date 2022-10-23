@@ -21,6 +21,7 @@
       "image":"https://www.chameleonmenswear.co.uk/images/hugo-boss-kids-6-12-years-bermuda-shorts-in-black-p20937-41464_medium.jpg"
     }
   ],
+  "products":{
     "shirts":[
     {
       "id": 11,
@@ -208,5 +209,5 @@
       "image":"https://www.chameleonmenswear.co.uk/images/hugo-boss-kids-6-12-years-bermuda-shorts-in-black-p20937-41464_medium.jpg",
       "size":["XS","S","M","L","XL","XXL"]
     }
-  ]
+  ]}
 }
